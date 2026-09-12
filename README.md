@@ -82,7 +82,8 @@ Whenever I learn something new, I try to build something with it. Because unders
 ### 🤝 Build With Me
 This profile is a work in progress. If you find something interesting here, explore it, fork it, experiment with it, open an issue, or build on it. Ideas get better when other people touch them.
 
-You're welcome! It's all about our life and pieces! 🚀
+You're welcome!
+> *It's all about our life and pieces! 🚀* 
 
 ---
 
