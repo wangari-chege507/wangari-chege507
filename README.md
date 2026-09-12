@@ -75,7 +75,7 @@ I'm working toward becoming an engineer who can move comfortably between code, i
 ### 🌱 Currently
 Learning. Building. Growing. 
 
-Whenever I learn something new, I try to build something with it. Because understanding a concept is one thing—making it work is another.
+Whenever I learn something new, I try to build something with it. Because understanding a concept is one thing - making it work is another.
 
 ---
 
